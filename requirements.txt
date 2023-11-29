@@ -1,6 +1,6 @@
 streamlit
 yake
-BeautifulSoup
+BeautifulSoup4
 requests
 matplotlib
 mysql-connector-python
