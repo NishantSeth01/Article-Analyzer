@@ -4,3 +4,5 @@ BeautifulSoup4
 requests
 matplotlib
 mysql-connector-python
+textblob
+wordcloud
