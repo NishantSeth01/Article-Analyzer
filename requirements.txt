@@ -1,0 +1,6 @@
+streamlit
+yake
+BeautifulSoup
+requests
+matplotlib
+mysql-connector-python
